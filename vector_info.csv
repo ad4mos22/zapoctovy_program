@@ -1,0 +1,1400 @@
+term,database frequency,idf
+Drama,2394,0.6660
+Comedy,1777,0.9641
+Thriller,1307,1.2713
+Action,1076,1.4658
+Romance,1050,1.4902
+Adventure,868,1.6806
+Crime,821,1.7362
+Sci-Fi,572,2.0976
+Fantasy,562,2.1153
+Horror,519,2.1949
+Family,509,2.2143
+Mystery,450,2.3375
+Biography,285,2.7943
+Animation,229,3.0130
+Music,204,3.1287
+War,201,3.1435
+History,193,3.1841
+Sport,176,3.2763
+Musical,128,3.5947
+Documentary,97,3.8721
+Western,90,3.9470
+Film-Noir,6,6.6550
+Short,5,6.8373
+News,2,7.7536
+love,189,3.2050
+friend,159,3.3779
+murder,152,3.4229
+death,125,3.6185
+police,116,3.6932
+new york city,89,3.9581
+high school,85,4.0041
+alien,77,4.1030
+boy,71,4.1841
+school,69,4.2127
+revenge,69,4.2127
+fbi,65,4.2724
+friendship,64,4.2879
+drugs,64,4.2879
+prison,62,4.3196
+money,60,4.3524
+marriage,59,4.3692
+party,55,4.4394
+dog,55,4.4394
+island,53,4.4765
+escape,53,4.4765
+wedding,52,4.4955
+sex,51,4.5149
+female protagonist,50,4.5347
+detective,49,4.5550
+rescue,48,4.5756
+female nudity,47,4.5966
+box office flop,47,4.5966
+vomiting,46,4.6181
+christmas,46,4.6181
+battle,46,4.6181
+teenager,45,4.6401
+lawyer,45,4.6401
+hospital,45,4.6401
+train,44,4.6626
+singer,44,4.6626
+serial killer,44,4.6626
+secret,44,4.6626
+college,44,4.6626
+hotel,43,4.6856
+cia,43,4.6856
+best friend,43,4.6856
+writer,41,4.7332
+teacher,41,4.7332
+scientist,41,4.7332
+future,41,4.7332
+fight,41,4.7332
+texas,40,4.7579
+terrorist,40,4.7579
+king,40,4.7579
+cult film,40,4.7579
+student,39,4.7832
+girl,39,4.7832
+violence,38,4.8092
+vampire,38,4.8092
+small town,38,4.8092
+spy,37,4.8359
+president,37,4.8359
+male nudity,37,4.8359
+sequel,36,4.8633
+doctor,36,4.8633
+assassin,35,4.8914
+actor,34,4.9204
+new york,33,4.9503
+desert,33,4.9503
+breasts,33,4.9503
+bar,33,4.9503
+sheriff,32,4.9810
+ghost,32,4.9810
+gangster,32,4.9810
+baby,32,4.9810
+soldier,31,5.0128
+princess,31,5.0128
+neighbor,31,5.0128
+gay,31,5.0128
+critically bashed,31,5.0128
+blood,31,5.0128
+dream,30,5.0456
+coach,30,5.0456
+book,30,5.0456
+title directed by female,29,5.0795
+superhero,29,5.0795
+professor,29,5.0795
+one word title,29,5.0795
+male frontal nudity,29,5.0795
+magic,29,5.0795
+divorce,29,5.0795
+bank,29,5.0795
+monster,28,5.1146
+martial arts,28,5.1146
+gang,28,5.1146
+birthday,28,5.1146
+african american,28,5.1146
+sex scene,27,5.1509
+russian,27,5.1509
+robot,27,5.1509
+priest,27,5.1509
+nudity,27,5.1509
+military,27,5.1509
+mexico,27,5.1509
+heist,27,5.1509
+family relationships,27,5.1509
+captain,27,5.1509
+based on true story,27,5.1509
+based on novel,27,5.1509
+time travel,26,5.1887
+reporter,26,5.1887
+female frontal nudity,26,5.1887
+dance,26,5.1887
+california,26,5.1887
+basketball,26,5.1887
+apartment,26,5.1887
+undercover,25,5.2279
+planet,25,5.2279
+demon,25,5.2279
+children,25,5.2279
+cat,25,5.2279
+thief,24,5.2687
+suicide,24,5.2687
+mission,24,5.2687
+mafia,24,5.2687
+fbi agent,24,5.2687
+box office hit,24,5.2687
+1960s,24,5.2687
+zombie,23,5.3113
+restaurant,23,5.3113
+journalist,23,5.3113
+computer,23,5.3113
+blood splatter,23,5.3113
+army,23,5.3113
+1980s,23,5.3113
+survival,22,5.3557
+suburb,22,5.3557
+pubic hair,22,5.3557
+memory,22,5.3557
+jungle,22,5.3557
+funeral,22,5.3557
+car accident,22,5.3557
+cancer,22,5.3557
+beach,22,5.3557
+band,22,5.3557
+village,21,5.4022
+two word title,21,5.4022
+three word title,21,5.4022
+ship,21,5.4022
+queen,21,5.4022
+nurse,21,5.4022
+letter,21,5.4022
+hostage,21,5.4022
+china,21,5.4022
+1970s,21,5.4022
+1950s,21,5.4022
+warrior,20,5.4510
+stripper,20,5.4510
+partner,20,5.4510
+nightmare,20,5.4510
+jewish,20,5.4510
+independent film,20,5.4510
+house,20,5.4510
+general,20,5.4510
+flashback,20,5.4510
+father son relationship,20,5.4510
+farm,20,5.4510
+road trip,19,5.5023
+prostitute,19,5.5023
+pilot,19,5.5023
+on the run,19,5.5023
+male rear nudity,19,5.5023
+kidnapping,19,5.5023
+japan,19,5.5023
+football,19,5.5023
+fire,19,5.5023
+faith,19,5.5023
+baseball,19,5.5023
+training,18,5.5564
+photographer,18,5.5564
+orphan,18,5.5564
+nazi,18,5.5564
+musician,18,5.5564
+lesbian,18,5.5564
+investigation,18,5.5564
+england,18,5.5564
+criminal,18,5.5564
+conspiracy,18,5.5564
+church,18,5.5564
+casino,18,5.5564
+boxing,18,5.5564
+bomb,18,5.5564
+vacation,17,5.6136
+travel,17,5.6136
+teenage girl,17,5.6136
+overalls,17,5.6136
+india,17,5.6136
+horse,17,5.6136
+france,17,5.6136
+father daughter relationship,17,5.6136
+diamond,17,5.6136
+competition,17,5.6136
+coma,17,5.6136
+catholic,17,5.6136
+bare breasts,17,5.6136
+artist,17,5.6136
+airport,17,5.6136
+actress,17,5.6136
+widow,16,5.6742
+trial,16,5.6742
+robbery,16,5.6742
+rape,16,5.6742
+pirate,16,5.6742
+neo noir,16,5.6742
+mountain,16,5.6742
+male full frontal nudity,16,5.6742
+gun,16,5.6742
+forest,16,5.6742
+experiment,16,5.6742
+dragon,16,5.6742
+dancer,16,5.6742
+creature,16,5.6742
+bully,16,5.6742
+boat,16,5.6742
+astronaut,16,5.6742
+american,16,5.6742
+woods,15,5.7387
+twin,15,5.7387
+summer,15,5.7387
+song,15,5.7387
+prince,15,5.7387
+police officer,15,5.7387
+muslim,15,5.7387
+mother son relationship,15,5.7387
+male objectification,15,5.7387
+hero,15,5.7387
+food,15,5.7387
+drug dealer,15,5.7387
+die hard scenario,15,5.7387
+chase,15,5.7387
+car,15,5.7387
+bounty hunter,15,5.7387
+19th century,15,5.7387
+1990s,15,5.7387
+written and directed by cast member,14,5.8077
+water,14,5.8077
+virus,14,5.8077
+television,14,5.8077
+storm,14,5.8077
+soccer,14,5.8077
+shark,14,5.8077
+racism,14,5.8077
+psychic,14,5.8077
+obsession,14,5.8077
+no opening credits,14,5.8077
+infidelity,14,5.8077
+hunter,14,5.8077
+halloween,14,5.8077
+gold,14,5.8077
+female rear nudity,14,5.8077
+dating,14,5.8077
+concert,14,5.8077
+coming of age,14,5.8077
+cocaine,14,5.8077
+cartoon on tv,14,5.8077
+alcoholic,14,5.8077
+1930s,14,5.8077
+surrealism,13,5.8818
+supernatural power,13,5.8818
+spoof,13,5.8818
+snow,13,5.8818
+radio,13,5.8818
+punctuation in title,13,5.8818
+post apocalypse,13,5.8818
+outlaw,13,5.8818
+masturbation,13,5.8818
+jew,13,5.8818
+french,13,5.8818
+fear,13,5.8818
+explosion,13,5.8818
+exorcism,13,5.8818
+dancing,13,5.8818
+christian,13,5.8818
+chinese,13,5.8818
+character name in title,13,5.8818
+black comedy,13,5.8818
+amnesia,13,5.8818
+alaska,13,5.8818
+werewolf,12,5.9619
+urination,12,5.9619
+team,12,5.9619
+second part,12,5.9619
+salesman,12,5.9619
+remake,12,5.9619
+psychiatrist,12,5.9619
+prom,12,5.9619
+pregnancy,12,5.9619
+parody,12,5.9619
+nightclub,12,5.9619
+mutant,12,5.9619
+museum,12,5.9619
+mobster,12,5.9619
+mercenary,12,5.9619
+mayor,12,5.9619
+male pubic hair,12,5.9619
+lake,12,5.9619
+kung fu,12,5.9619
+knight,12,5.9619
+kiss,12,5.9619
+iraq,12,5.9619
+hitman,12,5.9619
+graduation,12,5.9619
+found footage,12,5.9619
+first part,12,5.9619
+drug lord,12,5.9619
+curse,12,5.9619
+cowboy,12,5.9619
+colonel,12,5.9619
+circus,12,5.9619
+brother sister relationship,12,5.9619
+british,12,5.9619
+betrayal,12,5.9619
+bear,12,5.9619
+based on comic book,12,5.9619
+africa,12,5.9619
+wizard,11,6.0489
+witch,11,6.0489
+waitress,11,6.0489
+voyeur,11,6.0489
+university,11,6.0489
+tournament,11,6.0489
+torture,11,6.0489
+time machine,11,6.0489
+supernatural,11,6.0489
+spaceship,11,6.0489
+space,11,6.0489
+slave,11,6.0489
+sea,11,6.0489
+satire,11,6.0489
+river,11,6.0489
+rivalry,11,6.0489
+retirement,11,6.0489
+psychopath,11,6.0489
+pastor,11,6.0489
+painting,11,6.0489
+outer space,11,6.0489
+motorcycle,11,6.0489
+mother daughter relationship,11,6.0489
+manhattan new york city,11,6.0489
+magazine,11,6.0489
+journey,11,6.0489
+jealousy,11,6.0489
+irish,11,6.0489
+interview,11,6.0489
+immigrant,11,6.0489
+husband wife relationship,11,6.0489
+homosexual,11,6.0489
+hip hop,11,6.0489
+haunted house,11,6.0489
+florida,11,6.0489
+farmer,11,6.0489
+evil,11,6.0489
+diner,11,6.0489
+daughter,11,6.0489
+corruption,11,6.0489
+combat,11,6.0489
+civil war,11,6.0489
+chef,11,6.0489
+cave,11,6.0489
+boxer,11,6.0489
+bare chested male,11,6.0489
+australia,11,6.0489
+art,11,6.0489
+agent,11,6.0489
+accident,11,6.0489
+2000s,11,6.0489
+widower,10,6.1442
+wealth,10,6.1442
+voyeurism,10,6.1442
+virgin,10,6.1442
+vietnam,10,6.1442
+slacker,10,6.1442
+sister,10,6.1442
+secret agent,10,6.1442
+scam,10,6.1442
+roommate,10,6.1442
+psychologist,10,6.1442
+prisoner,10,6.1442
+patient,10,6.1442
+paranoia,10,6.1442
+oral sex,10,6.1442
+on the road,10,6.1442
+number in title,10,6.1442
+nonlinear timeline,10,6.1442
+mask,10,6.1442
+mansion,10,6.1442
+manager,10,6.1442
+killer,10,6.1442
+jason voorhees,10,6.1442
+jail,10,6.1442
+hong kong,10,6.1442
+hawaii,10,6.1442
+greek,10,6.1442
+gambling,10,6.1442
+fairy tale,10,6.1442
+epic,10,6.1442
+deputy,10,6.1442
+depression,10,6.1442
+dentist,10,6.1442
+cia agent,10,6.1442
+christmas eve,10,6.1442
+bus,10,6.1442
+boss,10,6.1442
+animal,10,6.1442
+angel,10,6.1442
+world war two,9,6.2495
+treasure,9,6.2495
+toy,9,6.2495
+tourist,9,6.2495
+teenage boy,9,6.2495
+surprise ending,9,6.2495
+strong female character,9,6.2495
+spider,9,6.2495
+slasher,9,6.2495
+shower,9,6.2495
+senator,9,6.2495
+security guard,9,6.2495
+russia,9,6.2495
+ring,9,6.2495
+rebellion,9,6.2495
+rat,9,6.2495
+ransom,9,6.2495
+politics,9,6.2495
+police detective,9,6.2495
+pig,9,6.2495
+penguin,9,6.2495
+painter,9,6.2495
+orphanage,9,6.2495
+organized crime,9,6.2495
+ocean,9,6.2495
+nun,9,6.2495
+newspaper,9,6.2495
+mormon,9,6.2495
+magician,9,6.2495
+lesbian kiss,9,6.2495
+judge,9,6.2495
+internet,9,6.2495
+highway travel,9,6.2495
+heaven,9,6.2495
+girl in panties,9,6.2495
+german,9,6.2495
+game,9,6.2495
+four word title,9,6.2495
+fellatio,9,6.2495
+fashion,9,6.2495
+emperor,9,6.2495
+earth,9,6.2495
+dystopia,9,6.2495
+dying,9,6.2495
+drinking,9,6.2495
+dinosaur,9,6.2495
+city,9,6.2495
+chick flick,9,6.2495
+cheerleader,9,6.2495
+bridge,9,6.2495
+bodyguard,9,6.2495
+afghanistan,9,6.2495
+adultery,9,6.2495
+1940s,9,6.2495
+zombie apocalypse,8,6.3673
+witness,8,6.3673
+wilderness,8,6.3673
+watching television,8,6.3673
+washington d.c.,8,6.3673
+virginity,8,6.3673
+vigilante,8,6.3673
+ufo,8,6.3673
+tribe,8,6.3673
+topless female nudity,8,6.3673
+sword and sorcery,8,6.3673
+swimming pool,8,6.3673
+suicide attempt,8,6.3673
+submarine,8,6.3673
+sniper,8,6.3673
+sister sister relationship,8,6.3673
+sergeant,8,6.3673
+research,8,6.3673
+religion,8,6.3673
+redemption,8,6.3673
+race,8,6.3673
+paris france,8,6.3673
+panties,8,6.3673
+oil,8,6.3673
+official james bond series,8,6.3673
+night,8,6.3673
+new jersey,8,6.3673
+navy,8,6.3673
+nanny,8,6.3673
+multiple perspectives,8,6.3673
+motel,8,6.3673
+moon,8,6.3673
+mexican,8,6.3673
+massacre,8,6.3673
+maid,8,6.3673
+louisiana,8,6.3673
+los angeles california,8,6.3673
+inventor,8,6.3673
+imagination,8,6.3673
+heroin,8,6.3673
+hell,8,6.3673
+group of friends,8,6.3673
+genius,8,6.3673
+flight,8,6.3673
+fighting,8,6.3673
+factory,8,6.3673
+election,8,6.3673
+egg,8,6.3673
+dysfunctional family,8,6.3673
+drifter,8,6.3673
+director,8,6.3673
+corpse,8,6.3673
+comic book,8,6.3673
+cigarette smoking,8,6.3673
+christian film,8,6.3673
+celebrity,8,6.3673
+boyfriend girlfriend relationship,8,6.3673
+audition,8,6.3673
+assassination,8,6.3673
+artificial intelligence,8,6.3673
+architect,8,6.3673
+arab,8,6.3673
+ape,8,6.3673
+antarctica,8,6.3673
+ambassador,8,6.3673
+writing,7,6.5009
+whale,7,6.5009
+virtual reality,7,6.5009
+video store,7,6.5009
+vegetarian,7,6.5009
+vampire hunter,7,6.5009
+uncle,7,6.5009
+twins,7,6.5009
+turtle,7,6.5009
+truck,7,6.5009
+trap,7,6.5009
+title spoken by character,7,6.5009
+time,7,6.5009
+tiger,7,6.5009
+survivor,7,6.5009
+surgery,7,6.5009
+surfing,7,6.5009
+surfer,7,6.5009
+subway,7,6.5009
+stranded,7,6.5009
+spirit,7,6.5009
+space opera,7,6.5009
+snake,7,6.5009
+singing,7,6.5009
+satellite,7,6.5009
+samurai,7,6.5009
+rock band,7,6.5009
+rival,7,6.5009
+revolution,7,6.5009
+ranch,7,6.5009
+railroad,7,6.5009
+race against time,7,6.5009
+public nudity,7,6.5009
+poet,7,6.5009
+plot twist,7,6.5009
+piano,7,6.5009
+olympics,7,6.5009
+ohio,7,6.5009
+office,7,6.5009
+neighborhood,7,6.5009
+movie star,7,6.5009
+mental institution,7,6.5009
+mental illness,7,6.5009
+marijuana,7,6.5009
+machine,7,6.5009
+law,7,6.5009
+lapd,7,6.5009
+justice,7,6.5009
+job,7,6.5009
+japanese,7,6.5009
+italy,7,6.5009
+honor,7,6.5009
+hollywood,7,6.5009
+hitchcockian,7,6.5009
+heart,7,6.5009
+guitar,7,6.5009
+governor,7,6.5009
+gay interest,7,6.5009
+freddy krueger,7,6.5009
+female full frontal nudity,7,6.5009
+espionage,7,6.5009
+elephant,7,6.5009
+drug cartel,7,6.5009
+drink,7,6.5009
+dracula,7,6.5009
+dolphin,7,6.5009
+disney,7,6.5009
+disguise,7,6.5009
+disease,7,6.5009
+dictator,7,6.5009
+devil,7,6.5009
+date,7,6.5009
+cult,7,6.5009
+corporation,7,6.5009
+cook,7,6.5009
+convict,7,6.5009
+congressman,7,6.5009
+computer hacker,7,6.5009
+color in title,7,6.5009
+clone,7,6.5009
+child,7,6.5009
+castle,7,6.5009
+car crash,7,6.5009
+brother,7,6.5009
+bride,7,6.5009
+blackmail,7,6.5009
+bachelor party,7,6.5009
+australian,7,6.5009
+apostrophe in title,7,6.5009
+android,7,6.5009
+amusement park,7,6.5009
+alien invasion,7,6.5009
+adoption,7,6.5009
+1920s,7,6.5009
+woman wearing only a man's shirt,6,6.6550
+wolf,6,6.6550
+white panties,6,6.6550
+waiter,6,6.6550
+villain,6,6.6550
+veteran,6,6.6550
+vengeance,6,6.6550
+usa,6,6.6550
+urban setting,6,6.6550
+undercover cop,6,6.6550
+undead,6,6.6550
+u.s. president,6,6.6550
+twin brother,6,6.6550
+tunnel,6,6.6550
+truth,6,6.6550
+tradition,6,6.6550
+therapy,6,6.6550
+theft,6,6.6550
+thailand,6,6.6550
+texas ranger,6,6.6550
+technology,6,6.6550
+sword,6,6.6550
+swimming,6,6.6550
+suspect,6,6.6550
+supermarket,6,6.6550
+strong female lead,6,6.6550
+spring break,6,6.6550
+spacecraft,6,6.6550
+sorority,6,6.6550
+slavery,6,6.6550
+single mother,6,6.6550
+shotgun,6,6.6550
+shootout,6,6.6550
+sexuality,6,6.6550
+servant,6,6.6550
+seduction,6,6.6550
+secretary,6,6.6550
+secret service,6,6.6550
+scotland,6,6.6550
+scandal,6,6.6550
+road movie,6,6.6550
+reunion,6,6.6550
+rancher,6,6.6550
+quest,6,6.6550
+psychotronic,6,6.6550
+protest,6,6.6550
+prejudice,6,6.6550
+poverty,6,6.6550
+politician,6,6.6550
+plane,6,6.6550
+penis,6,6.6550
+opera,6,6.6550
+one night stand,6,6.6550
+novelist,6,6.6550
+north carolina,6,6.6550
+ninja,6,6.6550
+new mexico,6,6.6550
+mouse,6,6.6550
+mother,6,6.6550
+mistress,6,6.6550
+mistaken identity,6,6.6550
+missionary,6,6.6550
+mirror,6,6.6550
+minister,6,6.6550
+mind control,6,6.6550
+michigan,6,6.6550
+michael myers,6,6.6550
+medical student,6,6.6550
+marine,6,6.6550
+man with glasses,6,6.6550
+maine,6,6.6550
+machismo,6,6.6550
+lust,6,6.6550
+love triangle,6,6.6550
+long take,6,6.6550
+london england,6,6.6550
+lingerie slip,6,6.6550
+kingdom,6,6.6550
+key,6,6.6550
+italian,6,6.6550
+invasion,6,6.6550
+intelligence,6,6.6550
+inheritance,6,6.6550
+ice,6,6.6550
+hustler,6,6.6550
+horseback riding,6,6.6550
+horror movie remake,6,6.6550
+hope,6,6.6550
+homosexuality,6,6.6550
+hit in the crotch,6,6.6550
+heart attack,6,6.6550
+hand to hand combat,6,6.6550
+hallucination,6,6.6550
+gym,6,6.6550
+good versus evil,6,6.6550
+freedom,6,6.6550
+fraternity,6,6.6550
+father,6,6.6550
+fame,6,6.6550
+falling in love,6,6.6550
+fairy,6,6.6550
+expedition,6,6.6550
+elf,6,6.6550
+eccentric,6,6.6550
+drummer,6,6.6550
+domestic violence,6,6.6550
+doll,6,6.6550
+disappearance,6,6.6550
+dinner,6,6.6550
+digit in title,6,6.6550
+debt,6,6.6550
+dea,6,6.6550
+cure,6,6.6550
+cuba,6,6.6550
+critically acclaimed,6,6.6550
+con artist,6,6.6550
+claim in title,6,6.6550
+chicken,6,6.6550
+cell phone,6,6.6550
+career,6,6.6550
+cabin,6,6.6550
+businessman,6,6.6550
+business,6,6.6550
+brother brother relationship,6,6.6550
+breaking the fourth wall,6,6.6550
+boarding school,6,6.6550
+bird,6,6.6550
+billionaire,6,6.6550
+bikini,6,6.6550
+bathtub,6,6.6550
+based on play,6,6.6550
+ballet,6,6.6550
+author,6,6.6550
+attorney,6,6.6550
+argument,6,6.6550
+afterlife,6,6.6550
+advertising,6,6.6550
+activist,6,6.6550
+action hero,6,6.6550
+accountant,6,6.6550
+3 dimensional,6,6.6550
+18th century,6,6.6550
+wrestling,5,6.8373
+wrestler,5,6.8373
+working class,5,6.8373
+wisconsin,5,6.8373
+winter,5,6.8373
+wilhelm scream,5,6.8373
+white house,5,6.8373
+weekend,5,6.8373
+website,5,6.8373
+vietnam war,5,6.8373
+video camera,5,6.8373
+van,5,6.8373
+utah,5,6.8373
+upskirt,5,6.8373
+unrequited love,5,6.8373
+union,5,6.8373
+unfaithfulness,5,6.8373
+u.s. marshal,5,6.8373
+tyrannosaurus rex,5,6.8373
+tween girl,5,6.8373
+tsunami,5,6.8373
+triad,5,6.8373
+trapped,5,6.8373
+tragedy,5,6.8373
+tough girl,5,6.8373
+time travel romance,5,6.8373
+time loop,5,6.8373
+tied to a chair,5,6.8373
+therapist,5,6.8373
+thanksgiving,5,6.8373
+terrorism,5,6.8373
+terminal illness,5,6.8373
+teleportation,5,6.8373
+telephone,5,6.8373
+taxi,5,6.8373
+tattoo,5,6.8373
+surveillance,5,6.8373
+summer camp,5,6.8373
+strip club,5,6.8373
+street,5,6.8373
+stranger,5,6.8373
+stand up comedian,5,6.8373
+stage,5,6.8373
+speech,5,6.8373
+special forces,5,6.8373
+spain,5,6.8373
+space travel,5,6.8373
+son,5,6.8373
+sociopath,5,6.8373
+smuggling,5,6.8373
+slum,5,6.8373
+six word title,5,6.8373
+single set production,5,6.8373
+shooting,5,6.8373
+search,5,6.8373
+science,5,6.8373
+sailor,5,6.8373
+sabotage,5,6.8373
+rural setting,5,6.8373
+robber,5,6.8373
+rebel,5,6.8373
+reality,5,6.8373
+real estate,5,6.8373
+punishment,5,6.8373
+publicist,5,6.8373
+protective male,5,6.8373
+private school,5,6.8373
+pregnant,5,6.8373
+prayer,5,6.8373
+political thriller,5,6.8373
+police brutality,5,6.8373
+poem,5,6.8373
+playwright,5,6.8373
+playboy,5,6.8373
+play,5,6.8373
+place name in title,5,6.8373
+pimp,5,6.8373
+photography,5,6.8373
+photograph,5,6.8373
+passenger,5,6.8373
+park,5,6.8373
+pantyhose,5,6.8373
+outcast,5,6.8373
+oregon,5,6.8373
+new year's eve,5,6.8373
+nerd,5,6.8373
+near death experience,5,6.8373
+nasa,5,6.8373
+mutiny,5,6.8373
+monkey,5,6.8373
+monk,5,6.8373
+monastery,5,6.8373
+mockumentary,5,6.8373
+mixed martial arts,5,6.8373
+misunderstanding,5,6.8373
+miner,5,6.8373
+marriage proposal,5,6.8373
+map,5,6.8373
+magical realism,5,6.8373
+madea series,5,6.8373
+love at first sight,5,6.8373
+loss of virginity,5,6.8373
+loss of father,5,6.8373
+loan shark,5,6.8373
+little girl,5,6.8373
+lesbian sex,5,6.8373
+latino,5,6.8373
+killing an animal,5,6.8373
+karate,5,6.8373
+kansas,5,6.8373
+jazz,5,6.8373
+iowa,5,6.8373
+interracial relationship,5,6.8373
+insurance,5,6.8373
+insanity,5,6.8373
+indian,5,6.8373
+identity,5,6.8373
+housekeeper,5,6.8373
+homoeroticism,5,6.8373
+hockey,5,6.8373
+historically inaccurate,5,6.8373
+hidden camera,5,6.8373
+held at gunpoint,5,6.8373
+harvard,5,6.8373
+hairy chest,5,6.8373
+guard,5,6.8373
+gothic,5,6.8373
+golfer,5,6.8373
+golf,5,6.8373
+giant,5,6.8373
+ghetto,5,6.8373
+germany,5,6.8373
+gay relationship,5,6.8373
+gadget,5,6.8373
+fraud,5,6.8373
+flood,5,6.8373
+flight attendant,5,6.8373
+fish out of water,5,6.8373
+fish,5,6.8373
+femme fatale,5,6.8373
+female warrior,5,6.8373
+fan,5,6.8373
+false accusation,5,6.8373
+face slap,5,6.8373
+f word,5,6.8373
+elevator,5,6.8373
+egypt,5,6.8373
+earthquake,5,6.8373
+dwarf,5,6.8373
+duel,5,6.8373
+driver,5,6.8373
+dream sequence,5,6.8373
+dog movie,5,6.8373
+directed by star,5,6.8373
+diary,5,6.8373
+destiny,5,6.8373
+demonic possession,5,6.8373
+deception,5,6.8373
+dc comics,5,6.8373
+darkness,5,6.8373
+cunnilingus,5,6.8373
+crocodile,5,6.8373
+crime boss,5,6.8373
+crash,5,6.8373
+cover up,5,6.8373
+courtroom,5,6.8373
+court,5,6.8373
+countess,5,6.8373
+comedian,5,6.8373
+colombia,5,6.8373
+civil rights,5,6.8373
+chocolate,5,6.8373
+chipmunk,5,6.8373
+championship,5,6.8373
+cattle,5,6.8373
+cannibalism,5,6.8373
+camera shot of feet,5,6.8373
+butler,5,6.8373
+brazil,5,6.8373
+blaxploitation,5,6.8373
+biker,5,6.8373
+beauty pageant,5,6.8373
+basement,5,6.8373
+based on young adult novel,5,6.8373
+based on tv series,5,6.8373
+based on short film,5,6.8373
+bare chested male bondage,5,6.8373
+bare butt,5,6.8373
+bank robbery,5,6.8373
+bail,5,6.8373
+arms dealer,5,6.8373
+apprentice,5,6.8373
+anthology,5,6.8373
+animal in title,5,6.8373
+anger,5,6.8373
+ambiguous ending,5,6.8373
+alzheimer's disease,5,6.8373
+alcoholism,5,6.8373
+alabama,5,6.8373
+airplane,5,6.8373
+aging,5,6.8373
+affair,5,6.8373
+abusive husband,5,6.8373
+abuse,5,6.8373
+abortion,5,6.8373
+1800s,5,6.8373
+17th century,5,6.8373
+Robert De Niro,48,4.5756
+Johnny Depp,36,4.8633
+Nicolas Cage,32,4.9810
+Matt Damon,29,5.0795
+J.K. Simmons,29,5.0795
+Denzel Washington,29,5.0795
+Bruce Willis,28,5.1146
+Steve Buscemi,27,5.1509
+Robin Williams,27,5.1509
+Harrison Ford,27,5.1509
+Robert Downey Jr.,26,5.1887
+Liam Neeson,26,5.1887
+Bill Murray,26,5.1887
+Jason Statham,25,5.2279
+Tom Hanks,24,5.2687
+Tom Cruise,24,5.2687
+Morgan Freeman,23,5.3113
+Kevin Spacey,22,5.3557
+Keanu Reeves,22,5.3557
+Gerard Butler,22,5.3557
+Christian Bale,22,5.3557
+Anthony Hopkins,21,5.4022
+Will Ferrell,20,5.4510
+Sylvester Stallone,20,5.4510
+Scarlett Johansson,20,5.4510
+Philip Seymour Hoffman,20,5.4510
+Matthew McConaughey,20,5.4510
+Leonardo DiCaprio,20,5.4510
+Will Smith,19,5.5023
+Hugh Jackman,18,5.5564
+Channing Tatum,18,5.5564
+Brad Pitt,18,5.5564
+Julia Roberts,17,5.6136
+Jeff Bridges,17,5.6136
+Dwayne Johnson,17,5.6136
+Ryan Reynolds,16,5.6742
+Ryan Gosling,16,5.6742
+Paul Walker,16,5.6742
+Joseph Gordon-Levitt,16,5.6742
+Jim Broadbent,16,5.6742
+Clint Eastwood,16,5.6742
+Natalie Portman,15,5.7387
+Milla Jovovich,15,5.7387
+Jennifer Lawrence,15,5.7387
+Jake Gyllenhaal,15,5.7387
+Colin Firth,15,5.7387
+Angelina Jolie Pitt,15,5.7387
+Al Pacino,15,5.7387
+Naomi Watts,14,5.8077
+Kate Winslet,14,5.8077
+James Franco,14,5.8077
+Chris Hemsworth,14,5.8077
+Adam Sandler,14,5.8077
+Meryl Streep,13,5.8818
+Kristen Stewart,13,5.8818
+Judy Greer,13,5.8818
+Dennis Quaid,13,5.8818
+Bradley Cooper,13,5.8818
+Viggo Mortensen,12,5.9619
+Brendan Fraser,12,5.9619
+Vin Diesel,11,6.0489
+Tom Wilkinson,11,6.0489
+Rosario Dawson,11,6.0489
+Peter Dinklage,11,6.0489
+Matthew Broderick,11,6.0489
+Emma Stone,11,6.0489
+Chloë Grace Moretz,11,6.0489
+Bruce Greenwood,11,6.0489
+Bernie Mac,11,6.0489
+Anne Hathaway,11,6.0489
+Woody Allen,10,6.1442
+Tom Hardy,10,6.1442
+Steve Carell,10,6.1442
+Salma Hayek,10,6.1442
+Robin Wright,10,6.1442
+Oliver Platt,10,6.1442
+Michael Fassbender,10,6.1442
+Kirsten Dunst,10,6.1442
+Josh Hutcherson,10,6.1442
+Gary Oldman,10,6.1442
+Zooey Deschanel,9,6.2495
+Sarah Michelle Gellar,9,6.2495
+Robert Duvall,9,6.2495
+Ray Winstone,9,6.2495
+Michael Biehn,9,6.2495
+Martin Landau,9,6.2495
+Jon Favreau,9,6.2495
+Jeremy Renner,9,6.2495
+Jennifer Garner,9,6.2495
+Jamie Lee Curtis,9,6.2495
+Don Cheadle,9,6.2495
+Christopher Lee,9,6.2495
+Chris Evans,9,6.2495
+Bob Hoskins,9,6.2495
+Alfre Woodard,9,6.2495
+Alexa PenaVega,9,6.2495
+Mila Kunis,8,6.3673
+Michael Jai White,8,6.3673
+Leonard Nimoy,8,6.3673
+Jimmy Bennett,8,6.3673
+Jet Li,8,6.3673
+Jennifer Jason Leigh,8,6.3673
+Djimon Hounsou,8,6.3673
+Anjelica Huston,8,6.3673
+Amy Poehler,8,6.3673
+Alyson Hannigan,8,6.3673
+Alan Rickman,8,6.3673
+Adam Scott,8,6.3673
+Vivica A. Fox,7,6.5009
+Robert Pattinson,7,6.5009
+Radha Mitchell,7,6.5009
+Mo'Nique,7,6.5009
+Minnie Driver,7,6.5009
+Logan Lerman,7,6.5009
+Justin Timberlake,7,6.5009
+Jon Lovitz,7,6.5009
+Jada Pinkett Smith,7,6.5009
+Holly Hunter,7,6.5009
+Henry Cavill,7,6.5009
+Daniel Radcliffe,7,6.5009
+Chazz Palminteri,7,6.5009
+Catherine Deneuve,7,6.5009
+Benedict Cumberbatch,7,6.5009
+Anna Kendrick,7,6.5009
+Vanessa Williams,6,6.6550
+Tom Skerritt,6,6.6550
+Toby Jones,6,6.6550
+Rufus Sewell,6,6.6550
+Olivia Wilde,6,6.6550
+Norman Reedus,6,6.6550
+Nia Long,6,6.6550
+Macaulay Culkin,6,6.6550
+Lin Shaye,6,6.6550
+Li Gong,6,6.6550
+LL Cool J,6,6.6550
+Joe Mantegna,6,6.6550
+Jason Flemyng,6,6.6550
+Hayden Christensen,6,6.6550
+George Kennedy,6,6.6550
+Gary Cole,6,6.6550
+Ed Begley Jr.,6,6.6550
+Donald Pleasence,6,6.6550
+Dominic Cooper,6,6.6550
+Dianne Wiest,6,6.6550
+Demi Moore,6,6.6550
+David Oyelowo,6,6.6550
+Christopher Lambert,6,6.6550
+Charlotte Rampling,6,6.6550
+Charlize Theron,6,6.6550
+Catherine O'Hara,6,6.6550
+Ty Burrell,5,6.8373
+Tina Fey,5,6.8373
+Steve Coogan,5,6.8373
+Stephen Root,5,6.8373
+Samantha Morton,5,6.8373
+Roy Scheider,5,6.8373
+Roddy McDowall,5,6.8373
+Quentin Tarantino,5,6.8373
+Omar Epps,5,6.8373
+Natasha Lyonne,5,6.8373
+Muse Watson,5,6.8373
+Mira Sorvino,5,6.8373
+Madeline Kahn,5,6.8373
+Madeline Carroll,5,6.8373
+Lea Thompson,5,6.8373
+Kelly Macdonald,5,6.8373
+Julian Sands,5,6.8373
+Jon Hamm,5,6.8373
+Jennifer Ehle,5,6.8373
+Jay Hernandez,5,6.8373
+Janeane Garofalo,5,6.8373
+Heath Ledger,5,6.8373
+Haley Joel Osment,5,6.8373
+Fisher Stevens,5,6.8373
+Ethan Suplee,5,6.8373
+Daniel Roebuck,5,6.8373
+Costas Mandylor,5,6.8373
+Connie Nielsen,5,6.8373
+Clifton Collins Jr.,5,6.8373
+Charlie Hunnam,5,6.8373
+Cary-Hiroyuki Tagawa,5,6.8373
+Bryce Dallas Howard,5,6.8373
+Bokeem Woodbine,5,6.8373
+Billy Burke,5,6.8373
+Bill Cobbs,5,6.8373
+Alicia Witt,5,6.8373
+Alex Pettyfer,5,6.8373
+Adam Goldberg,5,6.8373
+Steven Spielberg,26,5.1887
+Woody Allen,22,5.3557
+Martin Scorsese,20,5.4510
+Clint Eastwood,20,5.4510
+Spike Lee,16,5.6742
+Ridley Scott,16,5.6742
+Steven Soderbergh,15,5.7387
+Renny Harlin,15,5.7387
+Tim Burton,14,5.8077
+Oliver Stone,14,5.8077
+Ron Howard,13,5.8818
+Robert Zemeckis,13,5.8818
+Robert Rodriguez,13,5.8818
+Joel Schumacher,13,5.8818
+Barry Levinson,13,5.8818
+Tony Scott,12,5.9619
+Michael Bay,12,5.9619
+Kevin Smith,12,5.9619
+Brian De Palma,12,5.9619
+Shawn Levy,11,6.0489
+Sam Raimi,11,6.0489
+Rob Reiner,11,6.0489
+Richard Linklater,11,6.0489
+Richard Donner,11,6.0489
+Francis Ford Coppola,11,6.0489
+Chris Columbus,11,6.0489
+Wes Craven,10,6.1442
+Stephen Frears,10,6.1442
+Paul W.S. Anderson,10,6.1442
+John McTiernan,10,6.1442
+John Carpenter,10,6.1442
+David Fincher,10,6.1442
+Bobby Farrelly,10,6.1442
+Tyler Perry,9,6.2495
+Rob Cohen,9,6.2495
+Phillip Noyce,9,6.2495
+Peter Jackson,9,6.2495
+M. Night Shyamalan,9,6.2495
+Lasse Hallström,9,6.2495
+Dennis Dugan,9,6.2495
+Brett Ratner,9,6.2495
+Stephen Herek,8,6.3673
+Simon West,8,6.3673
+Roland Emmerich,8,6.3673
+Quentin Tarantino,8,6.3673
+Neil Jordan,8,6.3673
+Martin Campbell,8,6.3673
+Marc Forster,8,6.3673
+Jay Roach,8,6.3673
+James Mangold,8,6.3673
+Ivan Reitman,8,6.3673
+Harold Ramis,8,6.3673
+George Miller,8,6.3673
+Garry Marshall,8,6.3673
+F. Gary Gray,8,6.3673
+Donald Petrie,8,6.3673
+David O. Russell,8,6.3673
+David Gordon Green,8,6.3673
+Danny Boyle,8,6.3673
+Christopher Nolan,8,6.3673
+Bryan Singer,8,6.3673
+Antoine Fuqua,8,6.3673
+Ang Lee,8,6.3673
+Alfred Hitchcock,8,6.3673
+Adam Shankman,8,6.3673
+Zack Snyder,7,6.5009
+Wolfgang Petersen,7,6.5009
+Wes Anderson,7,6.5009
+Tom Shadyac,7,6.5009
+Todd Phillips,7,6.5009
+Terry Gilliam,7,6.5009
+Sam Mendes,7,6.5009
+Roger Donaldson,7,6.5009
+Peter Segal,7,6.5009
+Paul Greengrass,7,6.5009
+Mike Newell,7,6.5009
+Malcolm D. Lee,7,6.5009
+Kenneth Branagh,7,6.5009
+Jon Turteltaub,7,6.5009
+John Singleton,7,6.5009
+Joe Dante,7,6.5009
+James Wan,7,6.5009
+James Ivory,7,6.5009
+James Cameron,7,6.5009
+Guy Ritchie,7,6.5009
+Gus Van Sant,7,6.5009
+Gore Verbinski,7,6.5009
+Frank Oz,7,6.5009
+Frank Coraci,7,6.5009
+Ethan Coen,7,6.5009
+Edward Zwick,7,6.5009
+Doug Liman,7,6.5009
+David Cronenberg,7,6.5009
+Barry Sonnenfeld,7,6.5009
+Yimou Zhang,6,6.6550
+William Friedkin,6,6.6550
+Tim Story,6,6.6550
+Taylor Hackford,6,6.6550
+Stephen Hopkins,6,6.6550
+Stanley Kubrick,6,6.6550
+Sidney Lumet,6,6.6550
+Roman Polanski,6,6.6550
+Robert Schwentke,6,6.6550
+Robert Luketic,6,6.6550
+Raja Gosnell,6,6.6550
+Peter Hyams,6,6.6550
+Peter Berg,6,6.6550
+Paul Weitz,6,6.6550
+Paul Thomas Anderson,6,6.6550
+Paul Schrader,6,6.6550
+Mike Nichols,6,6.6550
+Michael Moore,6,6.6550
+Michael Mann,6,6.6550
+Michael Apted,6,6.6550
+Mel Brooks,6,6.6550
+McG,6,6.6550
+Mark Waters,6,6.6550
+Louis Leterrier,6,6.6550
+Lana Wachowski,6,6.6550
+Jon Favreau,6,6.6550
+John Woo,6,6.6550
+Joe Wright,6,6.6550
+Jaume Collet-Serra,6,6.6550
+Guy Hamilton,6,6.6550
+George A. Romero,6,6.6550
+Gary Fleder,6,6.6550
+David Ayer,6,6.6550
+Darren Aronofsky,6,6.6550
+Curtis Hanson,6,6.6550
+Chuck Russell,6,6.6550
+Catherine Hardwicke,6,6.6550
+Cameron Crowe,6,6.6550
+Brian Robbins,6,6.6550
+Brian Levant,6,6.6550
+Atom Egoyan,6,6.6550
+Andy Tennant,6,6.6550
+Andy Fickman,6,6.6550
+Alejandro G. Iñárritu,6,6.6550
+Adam McKay,6,6.6550
+Wayne Wang,5,6.8373
+Uwe Boll,5,6.8373
+Tom Tykwer,5,6.8373
+Tobe Hooper,5,6.8373
+Tim Hill,5,6.8373
+Sydney Pollack,5,6.8373
+Steve Miner,5,6.8373
+Stephen Daldry,5,6.8373
+Scott Hicks,5,6.8373
+Rod Lurie,5,6.8373
+Robert Redford,5,6.8373
+Rob Minkoff,5,6.8373
+Rob Marshall,5,6.8373
+Richard Lester,5,6.8373
+Richard LaGravenese,5,6.8373
+Peter Chelsom,5,6.8373
+Paul Verhoeven,5,6.8373
+Norman Jewison,5,6.8373
+Nicole Holofcener,5,6.8373
+Nicholas Stoller,5,6.8373
+Nancy Meyers,5,6.8373
+Mira Nair,5,6.8373
+Mike Leigh,5,6.8373
+Miguel Arteta,5,6.8373
+Michael Winterbottom,5,6.8373
+Michael Polish,5,6.8373
+Mark Neveldine,5,6.8373
+Luc Besson,5,6.8373
+Les Mayfield,5,6.8373
+Lee Tamahori,5,6.8373
+Lawrence Kasdan,5,6.8373
+Larry Charles,5,6.8373
+Kirk Jones,5,6.8373
+Kevin Reynolds,5,6.8373
+Kenny Ortega,5,6.8373
+Justin Lin,5,6.8373
+Judd Apatow,5,6.8373
+Jonathan Liebesman,5,6.8373
+Jonathan Demme,5,6.8373
+Jon M. Chu,5,6.8373
+John Whitesell,5,6.8373
+John Madden,5,6.8373
+John Lasseter,5,6.8373
+John Landis,5,6.8373
+John Glen,5,6.8373
+John Frankenheimer,5,6.8373
+Jean-Pierre Jeunet,5,6.8373
+Jason Reitman,5,6.8373
+Jan de Bont,5,6.8373
+Guillermo del Toro,5,6.8373
+George Lucas,5,6.8373
+George Clooney,5,6.8373
+Gavin O'Connor,5,6.8373
+Gary Winick,5,6.8373
+Fred Zinnemann,5,6.8373
+Frank Capra,5,6.8373
+Francis Lawrence,5,6.8373
+Eric Darnell,5,6.8373
+David Zucker,5,6.8373
+David R. Ellis,5,6.8373
+David Lynch,5,6.8373
+David Koepp,5,6.8373
+Darren Lynn Bousman,5,6.8373
+Chris Weitz,5,6.8373
+Brian Helgeland,5,6.8373
+Brad Bird,5,6.8373
+Brad Anderson,5,6.8373
+Bill Condon,5,6.8373
+Ben Stiller,5,6.8373
+Anne Fletcher,5,6.8373
+Andrzej Bartkowiak,5,6.8373
+Andrew Niccol,5,6.8373
+Andrew Adamson,5,6.8373
+Alexander Payne,5,6.8373
+Alex Proyas,5,6.8373

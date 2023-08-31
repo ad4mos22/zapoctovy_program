@@ -1,0 +1,25 @@
+genre,database frequency,idf
+Drama,2394,0.6660
+Comedy,1777,0.9641
+Thriller,1307,1.2713
+Action,1076,1.4658
+Romance,1050,1.4902
+Adventure,868,1.6806
+Crime,821,1.7362
+Sci-Fi,572,2.0976
+Fantasy,562,2.1153
+Horror,519,2.1949
+Family,509,2.2143
+Mystery,450,2.3375
+Biography,285,2.7943
+Animation,229,3.0130
+Music,204,3.1287
+War,201,3.1435
+History,193,3.1841
+Sport,176,3.2763
+Musical,128,3.5947
+Documentary,97,3.8721
+Western,90,3.9470
+Film-Noir,6,6.6550
+Short,5,6.8373
+News,2,7.7536
