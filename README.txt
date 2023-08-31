@@ -24,11 +24,14 @@ Programátorská část:
 
 Filmová databáze:
 
-Pro tento program jsem použil databázi filmů „IMDB 5000 Movie Dataset“ ze stránky https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset. Po sérii úprav pro zlepšní práce s datbází zbylo 4660 filmů. Po úpravě obsahuje databáze následující informace o jednotlivých filmech: Název filmu, Rok vydání, Skóre z IMDb, Délka trvání filmu, Režisér, Herec v hlavní roli, Žánry a Klíčová slova popisující děj. Původní databáze obsahovala více informací, avšak pro zjednodušení chodu programu jsem databázi redukoval.
+Pro tento program jsem použil databázi filmů „IMDB 5000 Movie Dataset“ ze stránky https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset. 
+Po sérii úprav pro zlepšní práce s datbází zbylo 4660 filmů. Po úpravě obsahuje databáze následující informace o jednotlivých filmech: Název filmu, Rok vydání, Skóre z IMDb, Délka trvání filmu, Režisér, Herec v hlavní roli, Žánry a Klíčová slova popisující děj. 
+Původní databáze obsahovala více informací, avšak pro zjednodušení chodu programu jsem databázi redukoval na výše uvedené informace. Kompletní databáze je uložena v souboru „movie_metadata.csv“ ve složce "aditional data" společně s dalšími soubory, které byly použity během tvorby programu.
 
 Uživatelský profil a pojetí filmů jako vektory:
 
-Každému filmu z celková databáze A_complete_data.csv je vytvořen vektor o dimenzi 1399 reprezentující 24 žánrů, 974 nejčastějších klíčových slov, 188 nejčastějších herců a 213 nejčastějších herců. Jednotlivé hodnoty jsou vypočteny pomocí metody TF-IDF (=Term Frequency - Inverse Document Frequency). Hodnota TF určuje počet výskytů pojmu u jednoho filmu a hodnota IDF důležitost pojmu pro celou databázi. Proto u každého pojmu, který je použit pro tvorbu vektoru je spočten jeho výskyt v celé databázi a také jeho hodnota IDF, která se počítá jako ln(„počet všech filmů = 4660“ / „počet výskytů daného pojmu“). Pro vypočtení a zápis byl použit soubor idf_calculation.py.
+Každému filmu z celková databáze A_complete_data.csv je vytvořen vektor o dimenzi 1399 reprezentující 24 žánrů, 974 nejčastějších klíčových slov, 188 nejčastějších herců a 213 nejčastějších herců. 
+Jednotlivé hodnoty jsou vypočteny pomocí metody TF-IDF (=Term Frequency - Inverse Document Frequency). Hodnota TF určuje počet výskytů pojmu u jednoho filmu a hodnota IDF důležitost pojmu pro celou databázi. Proto u každého pojmu, který je použit pro tvorbu vektoru je spočten jeho výskyt v celé databázi a také jeho hodnota IDF, která se počítá jako ln(„počet všech filmů = 4660“ / „počet výskytů daného pojmu“). Pro vypočtení a zápis byl použit soubor idf_calculation.py.
 
 Kromě žánrů, kterých není mnoho, jsou ostatní pojmy vybrány tak, aby se v celkové databázi objevili alespoň 5krát. Jednak pro zmenšení dimenze vektorů, které by reprezentovaly filmy. A taky proto, že filmy, které obsahují pojmy, jež se vyskytují málo v databázi, nejsou příliš relevantní pro doporučování dalších filmů, které pravděpodobně tyto pojmy obsahovat nebudou.
 
@@ -48,4 +51,3 @@ Pro výpočet kosinové podobnosti je využita funkce cosine_similarity v soubor
 
 Závěr:
 V programu jsou požité knihovny jako csv, numpy, random a tkinter pro snadnější práci s csv soubory, složité výpočty a pro tvorbu grafického rozhraní. Ve většině souborů se nachází poznámky (v angličitně) vysvětlující jednotlivé kroky a pro lepší pochopení. U několika csv souborů je použit středník („ ; “) z důvodu čárek, které se vyskytují v názvu některých filmů. Zároveň jsem zahrnul i soubory použité pro úpravu a prácí s databází, které byly často použity pro vícero souborů, a proto jsou označení v nich velmi neurčitá a neutrální.
-
