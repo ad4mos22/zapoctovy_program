@@ -1,7 +1,7 @@
 Zadání problému:
 
 Aplikace pro doporučování filmů, která využívá zpětné vazbě uživatele ke konrétním návrhům.
-Vytváří si uživatelský profil, na jehož základě vybírá nejvíce vhodné filmy. Je přidáná možnost si oblíbené filmy uchovat pro zpětné nalzení.
+Vytváří si uživatelský profil, na jehož základě vybírá nejvíce vhodné filmy. Je přidáná možnost si oblíbené filmy uchovat pro zpětné nalezení.
 
 
 Uživatelská část:
@@ -50,4 +50,4 @@ Po prvních 10 filmech začne program sám doporučovat filmy, které si myslí,
 Pro výpočet kosinové podobnosti je využita funkce cosine_similarity v souboru backend.py. Pro doporučování filmů je použita funkce get_recommendation, která vybere film s největší kosinovou podobností a navrhne ho uživatel. Zároveň každý již doporučený film je přidán do seznamu already_recommended, který shraňuje identifikační čísla doporučených filmů, aby žádný film nebyl navržen dvakrát.
 
 Závěr:
-V programu jsou požité knihovny jako csv, numpy, random a tkinter pro snadnější práci s csv soubory, složité výpočty a pro tvorbu grafického rozhraní. Ve většině souborů se nachází poznámky (v angličitně) vysvětlující jednotlivé kroky a pro lepší pochopení. U několika csv souborů je použit středník („ ; “) z důvodu čárek, které se vyskytují v názvu některých filmů. Zároveň jsem zahrnul i soubory použité pro úpravu a prácí s databází, které byly často použity pro vícero souborů, a proto jsou označení v nich velmi neurčitá a neutrální.
+V programu jsou použité knihovny jako csv, numpy, random a tkinter pro snadnější práci s csv soubory, složité výpočty a pro tvorbu grafického rozhraní. Ve většině souborů se nachází poznámky (v angličitně) vysvětlující jednotlivé kroky a pro lepší pochopení. U několika csv souborů je použit středník („ ; “) z důvodu čárek, které se vyskytují v názvu některých filmů. Zároveň jsem zahrnul i soubory použité pro úpravu a prácí s databází, které byly často použity pro vícero souborů, a proto jsou označení v nich velmi neurčitá a neutrální.
