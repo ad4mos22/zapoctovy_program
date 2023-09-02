@@ -25,8 +25,8 @@ Programátorská část:
 Filmová databáze:
 
 Pro tento program jsem použil databázi filmů „IMDB 5000 Movie Dataset“ ze stránky https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset. 
-Po sérii úprav pro zlepšní práce s datbází zbylo 4660 filmů. Po úpravě obsahuje databáze následující informace o jednotlivých filmech: Název filmu, Rok vydání, Skóre z IMDb, Délka trvání filmu, Režisér, Herec v hlavní roli, Žánry a Klíčová slova popisující děj. 
-Původní databáze obsahovala více informací, avšak pro zjednodušení chodu programu jsem databázi redukoval na výše uvedené informace. Kompletní databáze je uložena v souboru „movie_metadata.csv“ ve složce "aditional data" společně s dalšími soubory, které byly použity během tvorby programu.
+Po sérii úprav pro zlepšení práce s databází zbylo 4660 filmů. Po úpravě obsahuje databáze následující informace o jednotlivých filmech: Název filmu, Rok vydání, Skóre z IMDb, Délka trvání filmu, Režisér, Herec v hlavní roli, Žánry a Klíčová slova popisující děj. 
+Původní databáze obsahovala více informací, avšak pro zjednodušení chodu programu jsem databázi redukoval na výše uvedené informace. Kompletní databáze je uložena v souboru „movie_metadata.csv“ ve složce "additional data" společně s dalšími soubory, které byly použity během tvorby programu.
 
 Uživatelský profil a pojetí filmů jako vektory:
 
