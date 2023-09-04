@@ -1,9 +1,9 @@
 import tkinter as tk
 from tkinter import messagebox
-import backend as bk
 import csv
 import numpy as np
 from collections import deque
+from backend import Backend as bk
 
 def load_movie_data():
     #load movie data from csv file
